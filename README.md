@@ -1,4 +1,4 @@
-# Using Wit.ai programmatically
+# Using Wit.ai programmatically.
 
 [Wit.ai](https://wit.ai) comes with a powerful API to understand Natural Language. Traditionally, the main approach of building and training you Wit app was through our Web app (aka Wit Console). However, users have had more complex use cases recently that are hardly supported by our Web App.
 
